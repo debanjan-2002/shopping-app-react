@@ -5,6 +5,16 @@
     animation: meals-appear 1s ease-out forwards;
 }
 
+.meals__loading {
+    text-align: center;
+    color: black;
+}
+
+.meals__error {
+    text-align: center;
+    color: red;
+}
+
 .meals ul {
     list-style: none;
     margin: 0;
